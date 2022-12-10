@@ -1,0 +1,17 @@
+{
+    "name": "ak-auth_manager",
+    "version": "0.0.1",
+    "author": "Alexandr Kiryushin",
+    "summary": "Manage user in server",
+    "license": "Apache-2.0",
+    "source": "https://github.com/akiryushin/auth_manager.git",
+    "project_page": "https://github.com/akiryushin/auth_manager",
+    "tags": ["ak-auth_manager"],
+    "dependencies": [],
+    "operatingsystem_support": [
+      {
+        "operatingsystem": "Ubuntu",
+        "operatingsystemrelease": [ "18.04" ]
+    }
+  ]
+}
