@@ -1,6 +1,6 @@
 {
     "name": "ak-auth_manager",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "author": "Alexandr Kiryushin",
     "summary": "Manage user in server",
     "license": "Apache-2.0",

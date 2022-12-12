@@ -2,10 +2,10 @@
 #
 #
 class auth_manager (
-  $users    = params_lookup('users'),
+  $users    = $auth_manager::params::users,
 ) inherits auth_manager::params {
   # resources
-  notify { 'Creating users':
+  notify { 'Managing users':
   }
   class { 'auth_manager::users':
     users => $users,
